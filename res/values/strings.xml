@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">ProConex</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="mostrar_texto">textView</string>
+    <string name="escribir_texto">escribir_texto</string>
+    <string name="boton">boton</string>
+    
+</resources>
